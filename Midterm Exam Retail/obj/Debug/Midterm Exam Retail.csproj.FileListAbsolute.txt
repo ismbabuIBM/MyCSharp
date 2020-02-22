@@ -1,0 +1,12 @@
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\Midterm Exam Retail\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\Midterm Exam Retail\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\Midterm Exam Retail\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\Midterm Exam Retail\bin\Debug\Midterm Exam Retail.dll
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\Midterm Exam Retail\bin\Debug\Midterm Exam Retail.pdb
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\Midterm Exam Retail\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\Midterm Exam Retail\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\Midterm Exam Retail\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\Midterm Exam Retail\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\Midterm Exam Retail\obj\Debug\Midterm Exam Retail.csprojResolveAssemblyReference.cache
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\Midterm Exam Retail\obj\Debug\Midterm Exam Retail.dll
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\Midterm Exam Retail\obj\Debug\Midterm Exam Retail.pdb

@@ -1,0 +1,11 @@
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\BackOnTrack\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\BackOnTrack\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\BackOnTrack\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\BackOnTrack\bin\Debug\BackOnTrack.dll
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\BackOnTrack\bin\Debug\BackOnTrack.pdb
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\BackOnTrack\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\BackOnTrack\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\BackOnTrack\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\BackOnTrack\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\BackOnTrack\obj\Debug\BackOnTrack.dll
+C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\BackOnTrack\obj\Debug\BackOnTrack.pdb

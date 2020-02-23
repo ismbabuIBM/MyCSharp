@@ -10,3 +10,15 @@ C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\UnitTestPr
 C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\UnitTestProject1\obj\Debug\CSharpSeleniumAutomation.csprojResolveAssemblyReference.cache
 C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\MyCSharpGit\MyCSharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\MyCSharpGit\MyCSharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\MyCSharpGit\MyCSharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\MyCSharpGit\MyCSharp\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\MyCSharpGit\MyCSharp\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\MyCSharpGit\MyCSharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\MyCSharpGit\MyCSharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\MyCSharpGit\MyCSharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\MyCSharpGit\MyCSharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\MyCSharpGit\MyCSharp\UnitTestProject1\obj\Debug\CSharpSeleniumAutomation.csprojResolveAssemblyReference.cache
+D:\MyCSharpGit\MyCSharp\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\MyCSharpGit\MyCSharp\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

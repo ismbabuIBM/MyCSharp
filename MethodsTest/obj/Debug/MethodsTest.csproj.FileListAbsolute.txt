@@ -10,3 +10,15 @@ C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\MethodsTes
 C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\MethodsTest\obj\Debug\MethodsTest.csprojResolveAssemblyReference.cache
 C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\MethodsTest\obj\Debug\MethodsTest.dll
 C:\Users\M1045935\documents\visual studio 2017\Projects\ClassLibrary1\MethodsTest\obj\Debug\MethodsTest.pdb
+D:\MyCSharpGit\MyCSharp\MethodsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\MyCSharpGit\MyCSharp\MethodsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\MyCSharpGit\MyCSharp\MethodsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\MyCSharpGit\MyCSharp\MethodsTest\bin\Debug\MethodsTest.dll
+D:\MyCSharpGit\MyCSharp\MethodsTest\bin\Debug\MethodsTest.pdb
+D:\MyCSharpGit\MyCSharp\MethodsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\MyCSharpGit\MyCSharp\MethodsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\MyCSharpGit\MyCSharp\MethodsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\MyCSharpGit\MyCSharp\MethodsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\MyCSharpGit\MyCSharp\MethodsTest\obj\Debug\MethodsTest.csprojResolveAssemblyReference.cache
+D:\MyCSharpGit\MyCSharp\MethodsTest\obj\Debug\MethodsTest.dll
+D:\MyCSharpGit\MyCSharp\MethodsTest\obj\Debug\MethodsTest.pdb

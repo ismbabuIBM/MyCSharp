@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="HackerRankTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="HackerRankArray.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

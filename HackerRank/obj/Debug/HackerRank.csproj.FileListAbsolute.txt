@@ -9,3 +9,4 @@ D:\MyCSharpGit\MyCSharp\HackerRank\bin\Debug\Microsoft.VisualStudio.TestPlatform
 D:\MyCSharpGit\MyCSharp\HackerRank\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 D:\MyCSharpGit\MyCSharp\HackerRank\obj\Debug\HackerRank.dll
 D:\MyCSharpGit\MyCSharp\HackerRank\obj\Debug\HackerRank.pdb
+D:\MyCSharpGit\MyCSharp\HackerRank\obj\Debug\HackerRank.csprojResolveAssemblyReference.cache

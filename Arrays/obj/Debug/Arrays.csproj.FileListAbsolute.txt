@@ -7,6 +7,5 @@ D:\MyCSharpGit\MyCSharp\Arrays\bin\Debug\Microsoft.VisualStudio.TestPlatform.Tes
 D:\MyCSharpGit\MyCSharp\Arrays\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 D:\MyCSharpGit\MyCSharp\Arrays\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 D:\MyCSharpGit\MyCSharp\Arrays\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-D:\MyCSharpGit\MyCSharp\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
 D:\MyCSharpGit\MyCSharp\Arrays\obj\Debug\Arrays.dll
 D:\MyCSharpGit\MyCSharp\Arrays\obj\Debug\Arrays.pdb

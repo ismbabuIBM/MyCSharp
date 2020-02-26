@@ -1,0 +1,5 @@
+D:\MyCSharpGit\MyCSharp\TryParse\bin\Debug\TryParse.exe.config
+D:\MyCSharpGit\MyCSharp\TryParse\bin\Debug\TryParse.exe
+D:\MyCSharpGit\MyCSharp\TryParse\bin\Debug\TryParse.pdb
+D:\MyCSharpGit\MyCSharp\TryParse\obj\Debug\TryParse.exe
+D:\MyCSharpGit\MyCSharp\TryParse\obj\Debug\TryParse.pdb

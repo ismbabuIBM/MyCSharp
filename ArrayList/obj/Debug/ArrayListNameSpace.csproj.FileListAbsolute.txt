@@ -1,0 +1,12 @@
+D:\MyCSharpGit\MyCSharp\ArrayList\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\MyCSharpGit\MyCSharp\ArrayList\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\MyCSharpGit\MyCSharp\ArrayList\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\MyCSharpGit\MyCSharp\ArrayList\bin\Debug\ArrayList.dll
+D:\MyCSharpGit\MyCSharp\ArrayList\bin\Debug\ArrayList.pdb
+D:\MyCSharpGit\MyCSharp\ArrayList\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\MyCSharpGit\MyCSharp\ArrayList\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\MyCSharpGit\MyCSharp\ArrayList\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\MyCSharpGit\MyCSharp\ArrayList\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\MyCSharpGit\MyCSharp\ArrayList\obj\Debug\ArrayListNameSpace.csprojResolveAssemblyReference.cache
+D:\MyCSharpGit\MyCSharp\ArrayList\obj\Debug\ArrayList.dll
+D:\MyCSharpGit\MyCSharp\ArrayList\obj\Debug\ArrayList.pdb

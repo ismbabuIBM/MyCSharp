@@ -13,5 +13,17 @@ namespace BackOnTrack
 			int result = obj.MathCall();
 			Console.WriteLine("The result of Math Call is: " + result);
 		}
+
+		[TestMethod]
+		public void EmptyDateTimeTest()
+		{
+			DateTime dt = new DateTime();
+			dt = DateTime.Now;
+			Console.WriteLine(dt);
+			if(dt != DateTime.MinValue)
+			{
+				Console.WriteLine("Doesn't have MinValue");
+			}
+		}
 	}
 }
